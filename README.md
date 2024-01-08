@@ -21,8 +21,23 @@ To install the WPA Text Editor on your local machine, follow these steps:
 2. Navigate to the project directory:
     cd wpa-text-editor
 
-3. Install dependencies:
-npm install
+3. Install dependencies: npm install
 
+## Usage
+
+To start the application:
+
+1. Run the server: npm start
+2. Open a browser and navigate to http://localhost:3000.
+
+## Contributing
+Contributions to the WPA Text Editor are welcome! Please feel free to submit pull requests or open issues to discuss proposed changes or enhancements.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+Special thanks to all the contributors and maintainers of this project.
+This project was bootstrapped using modern web technologies and practices.
 
 
