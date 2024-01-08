@@ -5,9 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "",
+    "start": "npm run start",
     "server": "",
-    "build": "",
+    "build": "npm run build",
     "install": "",
     "client": ""
   },
